@@ -1,4 +1,4 @@
-"""#Task_1
+#Task_1
 user_1= {
     "password": "password123"
 }
@@ -29,23 +29,25 @@ if u in days :
       print(days[u])
 else:
       print ("There is no such day of the week!")
-"""
-"""#Task_3
+
+
+#Task_3
 user_number = int(input("Введіть число: "))
 
 for i in range(1, 11):
     result = user_number * i
     print(f"{user_number} x {i} = {result}")
-"""
-"""#task_4
+
+
+#task_4
 
 list_number = [1, 2, 3, 4, 5, 6, 7, 8]
 total_sum = 0
 for i in list_number:
     total_sum += i
 print(total_sum)
-"""
-"""
+
+
 #Task_5
 
 print ("Input a number")
@@ -54,14 +56,14 @@ ffactor23 = 1
 for j in range (1, factorialIP+1):
    ffactor23 = ffactor23 * j
 print ( ffactor23)
-"""
-"""
+
+
 #Task_6
 
 for i in range(1,51):
    if i%2 == 0:
     print( i )
-"""
+
 
 #Task_7
 for i in range(1,51):
